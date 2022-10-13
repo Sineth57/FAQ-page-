@@ -15,7 +15,7 @@ html {
 body {
   min-height: 100vh;
   font-family: 'Poppins', sans-serif;
-  background: -webkit-linear-gradient(left, #e6e84d, #a1f461);
+  background: -webkit-linear-gradient(left, #e6e84d, #a2f762);
   display: flex;
   justify-content: center;
 }
